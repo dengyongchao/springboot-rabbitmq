@@ -1,5 +1,8 @@
 package com.deng.springbootrabbitmq.bean;
 
+/**
+ * javaBean
+ */
 public class Book {
 
     //书名
