@@ -2,7 +2,9 @@ package com.deng.springbootrabbitmq.bean;
 
 public class Book {
 
+    //书名
     private String Bookname;
+    //作者
     private String zuozhe;
 
     public String getBookname() {
